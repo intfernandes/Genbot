@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881280950386",
+    "project_id": "genbot-62cc5",
+    "storage_bucket": "genbot-62cc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881280950386:android:044af5fa9607a2c59922eb",
+        "android_client_info": {
+          "package_name": "com.example.genbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXUWxtoWRhAC7QTxa5jQvg-ah0idZqlRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
